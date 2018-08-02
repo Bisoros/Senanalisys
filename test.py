@@ -6,7 +6,7 @@ nr = 100
 for i in range(nr):
     start = timer()
 
-    text = 'Wenn es dem internationalen Finanzjudentum in und außerhalb Europas gelingen sollte, die Völker noch einmal in einen Weltkrieg zu stürzen, dann wird das Ergebnis nicht der Sieg des Judentums sein, sondern die Vernichtung der jüdischen Rasse in Europa! '
+    text = 'Ich liebe Katze'
     var = sa(text)
 
     end = timer()
